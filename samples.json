@@ -2423,6 +2423,31 @@
 		"height": 40
 	},
 	{
+		"prefix": "ix",
+		"icons": {
+			"notification-filled": {
+				"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M448 85.333V384H341.333v85.333L192 384H64V85.333z\"/>"
+			},
+			"home-filled": {
+				"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M256 64L64 217.6V448h149.333V320h85.334v128H448V217.6z\"/>"
+			},
+			"panel-ipc": {
+				"body": "<path fill=\"currentColor\" d=\"M469.333 106.667v298.666H42.666V106.667zm-42.666 64H85.333v192h341.334zM149.333 128h-64v21.333h64z\"/>"
+			},
+			"plant-filled": {
+				"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M64 64v384h384V185.882L298.667 256v-69.333L149.333 256V64z\"/>"
+			},
+			"play-filled": {
+				"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M426.667 256L128 405.334V106.667z\"/>"
+			},
+			"folder-filled": {
+				"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M469.334 426.666H42.667V85.333H220.75L274.709 128h194.625z\"/>"
+			}
+		},
+		"width": 512,
+		"height": 512
+	},
+	{
 		"prefix": "jam",
 		"icons": {
 			"chevrons-square-up-right": {
@@ -2985,6 +3010,31 @@
 		"height": 512
 	},
 	{
+		"prefix": "meteor-icons",
+		"icons": {
+			"droplet": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m12 1l6 6A9 9 0 1 1 6 7Z\"/>"
+			},
+			"bolt": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 2v8h7l-9 12v-8H4Z\"/>"
+			},
+			"flipboard": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3 21h6v-6h6V9h6V3H3Z\"/>"
+			},
+			"filter": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M22 3H2l8 10v4l4 4v-8z\"/>"
+			},
+			"chevron-down": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m4 8l8 8l8-8\"/>"
+			},
+			"xmark": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M18 6L6 18M6 6l12 12\"/>"
+			}
+		},
+		"width": 24,
+		"height": 24
+	},
+	{
 		"prefix": "mi",
 		"icons": {
 			"bar-chart": {
@@ -3154,6 +3204,31 @@
 		},
 		"width": 128,
 		"height": 128
+	},
+	{
+		"prefix": "nrk",
+		"icons": {
+			"lyn": {
+				"body": "<path fill=\"currentColor\" d=\"M6 12L7 1h12l-6 11h5L8 23l2-11z\"/>"
+			},
+			"edit": {
+				"body": "<g fill=\"currentColor\"><path d=\"M15.9 2L3 14.9v5.7h5.7L21.5 7.7zM7.8 18.5H5v-2.8l7.9-7.9l2.8 2.8zm6.5-12.1l1.6-1.6l2.8 2.8l-1.6 1.6z\"/><path d=\"M12 21h8.6v-2H14z\" opacity=\".5\"/></g>"
+			},
+			"mening": {
+				"body": "<path fill=\"currentColor\" d=\"M13.222 3H23v10l-4 7h-3l3-7h-5.778zM1 3h9.778v10L7 20H4l3-7H1z\"/>"
+			},
+			"media-airplay": {
+				"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M1 3h22v15h-5.2l-1.3-2H21V5H3v11h4.5l-1.3 2H1zm11 10l-5 8h10z\"/>"
+			},
+			"category-active": {
+				"body": "<path fill=\"currentColor\" d=\"M2 11V2h9v9zm0 2h9v9H2zM13 2v9h9V2zm0 20v-9h9v9z\"/>"
+			},
+			"heart-active": {
+				"body": "<path fill=\"currentColor\" d=\"M12 21h-1l-9-8V6l3-4h4l3 3l3-3h4l3 4v7l-9 8z\"/>"
+			}
+		},
+		"width": 24,
+		"height": 24
 	},
 	{
 		"prefix": "octicon",
@@ -3517,6 +3592,29 @@
 		},
 		"width": 24,
 		"height": 24
+	},
+	{
+		"prefix": "qlementine-icons",
+		"icons": {
+			"windows-16": {
+				"body": "<path fill=\"currentColor\" d=\"M6.5 2.21L1 2.996v4.5h5.5v-5.29zm1-.14V7.5H15V1zm-1 6.43H1V13l5.5.786v-5.29zm1 5.4V8.47H15v6.5z\"/>"
+			},
+			"check-tick-small-16": {
+				"body": "<path fill=\"currentColor\" d=\"M11.4 6.85a.5.5 0 0 0-.707-.707l-3.65 3.65l-1.65-1.65a.5.5 0 0 0-.707.707l2 2a.5.5 0 0 0 .707 0l4-4z\"/>"
+			},
+			"speaker-0-16": {
+				"body": "<path fill=\"currentColor\" d=\"m4 5l3.17-2.77a.5.5 0 0 1 .829.376v10.8a.5.5 0 0 1-.829.376L4 11.012H1.5a1.5 1.5 0 0 1-1.5-1.5v-3a1.5 1.5 0 0 1 1.5-1.5H4z\"/>"
+			},
+			"play-16": {
+				"body": "<path fill=\"currentColor\" d=\"M4 2.01c0-.848.98-1.32 1.64-.79l7.48 5.99c.506.405.506 1.17 0 1.58l-7.48 5.99A1.01 1.01 0 0 1 4 13.99v-12z\"/>"
+			},
+			"triangle-filled-16": {
+				"body": "<path fill=\"currentColor\" d=\"m.325 11.6l5.02-9.99c1.1-2.19 4.21-2.19 5.31 0l5.02 9.99c1 2-.436 4.36-2.66 4.36h-10c-2.22 0-3.66-2.36-2.66-4.36z\"/>"
+			},
+			"folder-filled-16": {
+				"body": "<path fill=\"currentColor\" d=\"M0 12.5v-9A1.5 1.5 0 0 1 1.5 2H5a1 1 0 0 1 .8.4l.9 1.2a1 1 0 0 0 .8.4h5A1.5 1.5 0 0 1 14 5.5v7a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5\"/>"
+			}
+		}
 	},
 	{
 		"prefix": "quill",
