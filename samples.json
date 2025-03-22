@@ -3629,6 +3629,31 @@
 		"height": 256
 	},
 	{
+		"prefix": "pixel",
+		"icons": {
+			"folder-solid": {
+				"body": "<path fill=\"currentColor\" d=\"M23 6v15h-1v1H2v-1H1V3h1V2h9v1h1v1h1v1h9v1z\"/>"
+			},
+			"message": {
+				"body": "<path fill=\"currentColor\" d=\"M22 2V1H2v1H1v16h1v1h6v4h1v-1h1v-1h1v-1h2v-1h9v-1h1V2zm-1 15H3V3h18z\"/>"
+			},
+			"bullet-list": {
+				"body": "<path fill=\"currentColor\" d=\"M2 5h3v3H2zm0 6h3v3H2zm0 6h3v3H2zm6 1h14v1H8zM8 6h14v1H8zm0 6h14v1H8z\"/>"
+			},
+			"heading-1-solid": {
+				"body": "<path fill=\"currentColor\" d=\"M12 4v16H9v-7H4v7H1V4h3v6h5V4zm11 13v3h-9v-3h3V8h-1v1h-2V6h1V5h1V4h4v13z\"/>"
+			},
+			"exclaimation": {
+				"body": "<path fill=\"currentColor\" d=\"M11 9h-1V1h4v8h-1v6h-2zm4 10v1h-1v1h-1v1h-2v-1h-1v-1H9v-1h1v-1h1v-1h2v1h1v1z\"/>"
+			},
+			"trash": {
+				"body": "<path fill=\"currentColor\" d=\"M4 6v8h1v8h1v1h12v-1h1v-8h1V6zm14 7h-1v8H7v-8H6V8h12zm3-10v2H3V3h1V2h5V1h6v1h5v1z\"/>"
+			}
+		},
+		"width": 24,
+		"height": 24
+	},
+	{
 		"prefix": "pixelarticons",
 		"icons": {
 			"drag-and-drop": {
