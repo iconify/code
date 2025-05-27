@@ -4075,6 +4075,54 @@
 		"height": 14
 	},
 	{
+		"prefix": "streamline-block",
+		"icons": {
+			"other-ui-chat": {
+				"body": "<path fill=\"currentColor\" d=\"M0 16V0h16v13H3z\"/>"
+			},
+			"content-write": {
+				"body": "<path fill=\"currentColor\" d=\"M0 9v7h7l9-9l-7-7z\"/>"
+			},
+			"content-bookmark": {
+				"body": "<path fill=\"currentColor\" d=\"M15 0H1v16l7-7l7 7z\"/>"
+			},
+			"nature-lightning": {
+				"body": "<path fill=\"currentColor\" d=\"M6 10H0L10 0v6h6L6 16z\"/>"
+			},
+			"control-buttons-play": {
+				"body": "<path fill=\"currentColor\" d=\"m1 0l14 8l-14 8z\"/>"
+			},
+			"basic-ui-remove": {
+				"body": "<path fill=\"currentColor\" d=\"M0 5v6h16V5z\"/>"
+			}
+		}
+	},
+	{
+		"prefix": "streamline-cyber",
+		"icons": {
+			"music-note-1": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" d=\"M12.5 16.5h-7v7l7-2m0 0v-20l7 3.5\"/>"
+			},
+			"navigation-up-arrow": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" d=\"m20.5 10.5l-9-9l-9 9h4l1.5 13h7l1.5-13z\"/>"
+			},
+			"map-direction": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" d=\"M11.5 23.5v-11H.5l23-12z\"/>"
+			},
+			"glass-1": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" d=\"M14.5 18L18 .5H5L8.5 18l-2 5.5h10zM5.8 4.5h11.4\"/>"
+			},
+			"phone-5": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" d=\"M15 13.5h3.5l4 4v6h-7l-15-15v-7h6l4 4V9z\"/>"
+			},
+			"fork-knife": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" d=\"M14.5.5v23m0-23l3 6.5v8.5h-3m-9-15v6l3 3l3-3v-6m-3 0v23\"/>"
+			}
+		},
+		"width": 24,
+		"height": 24
+	},
+	{
 		"prefix": "streamline-emojis",
 		"icons": {
 			"crescent-moon": {
@@ -4098,6 +4146,31 @@
 		},
 		"width": 48,
 		"height": 48
+	},
+	{
+		"prefix": "streamline-flex",
+		"icons": {
+			"shield-2": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1 7c0-3.5 1.5-5 2-5.5C3.5 2 5.4 3 7 1c1.6 2 3.5 1 4 .5c.5.5 2 2 2 5.5c0 4-4 5.5-6 6c-2-.5-6-2-6-6\"/>"
+			},
+			"number-sign": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 12.721V1.5l6.487 11.221V1.5m2.487 6.606h3.74M11.344 5.5c1.28 0 2-.72 2-2s-.72-2-2-2s-2 .72-2 2s.72 2 2 2\"/>"
+			},
+			"heart": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 3.183C3.98-.522.792 2.111.75 4.949C.75 9.173 5.805 12.64 7 12.64s6.25-3.468 6.25-7.692C13.208 2.11 10.02-.522 7 3.183\"/>"
+			},
+			"merge-vertical": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M11 13a4 4 0 0 1-4-4a4 4 0 0 1-4 4m4-4V.997m3 3q-.75-2.25-3-3q-2.25.75-3 3\"/>"
+			},
+			"thermometer-solid": {
+				"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4.5 2.75a2.5 2.5 0 0 1 5 0v4.455a3.75 3.75 0 1 1-5 0zm4 7.323c0 .96-.54 1.5-1.5 1.5s-1.5-.54-1.5-1.5s.54-1.5 1.5-1.5s1.5.54 1.5 1.5\" clip-rule=\"evenodd\"/>"
+			},
+			"music-equalizer": {
+				"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1 5.616v2.768M4 3.31v7.381m3-9.689v11.996m3-9.688v7.381m3-5.075v2.768\"/>"
+			}
+		},
+		"width": 14,
+		"height": 14
 	},
 	{
 		"prefix": "subway",
