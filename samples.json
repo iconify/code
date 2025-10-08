@@ -3981,6 +3981,29 @@
 		}
 	},
 	{
+		"prefix": "roentgen",
+		"icons": {
+			"garage-door": {
+				"body": "<path fill=\"currentColor\" d=\"M2 3c-.554 0-1 .446-1 1v9h1V4h12v9h1V4c0-.554-.446-1-1-1zm1 2v2h10V5zm0 3v2h10V8zm0 3v2h10v-2z\"/>"
+			},
+			"onion-roof-shape": {
+				"body": "<path fill=\"currentColor\" d=\"M7.5 2.5A.5.5 0 0 0 7 3c0 4-8 5-3 11h7c5-6-3-7-3-11a.5.5 0 0 0-.5-.5\"/>"
+			},
+			"shelter": {
+				"body": "<path fill=\"currentColor\" d=\"m7.342 2.025l-6 2c-.54.18-.41.976.158.975H2v9h1V5h9v9h1V5h.5c.568 0 .697-.796.158-.975l-6-2a.48.48 0 0 0-.316 0\"/>"
+			},
+			"circle-11": {
+				"body": "<path fill=\"currentColor\" d=\"M7.5 2a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11\"/>"
+			},
+			"default": {
+				"body": "<path fill=\"currentColor\" d=\"M6 5h4c.554 0 1 .446 1 1v4c0 .554-.446 1-1 1H6c-.554 0-1-.446-1-1V6c0-.554.446-1 1-1\"/>"
+			},
+			"pyramid": {
+				"body": "<path fill=\"currentColor\" d=\"M7.492 4a.5.5 0 0 0-.346.146l-6 6A.5.5 0 0 0 1.5 11h12a.5.5 0 0 0 .354-.854l-6-6A.5.5 0 0 0 7.492 4\"/>"
+			}
+		}
+	},
+	{
 		"prefix": "si",
 		"icons": {
 			"eject-duotone": {
@@ -4806,6 +4829,33 @@
 			},
 			"frame-solid": {
 				"body": "<path fill=\"none\" stroke=\"currentColor\" d=\"M3.5 0v15m8-15v15M0 3.5h15m-15 8h15\"/>"
+			}
+		},
+		"width": 15,
+		"height": 15
+	},
+	{
+		"prefix": "temaki",
+		"icons": {
+			"milestone": {
+				"body": "<path fill=\"currentColor\" d=\"M3 4.5c0-5 9-5 9 0v1H3zM3 6v8.5h9V6z\"/>"
+			},
+			"elevator": {
+				"body": "<path fill=\"currentColor\" d=\"M7.5 15L3 8h9zm0-15L12 7H3z\"/>"
+			},
+			"storage": {
+				"body": "<path fill=\"currentColor\" d=\"M3 6h44v5H3zm3 7v33h38V13zm26 9H17v-3h15z\"/>",
+				"width": 50,
+				"height": 50
+			},
+			"obelisk": {
+				"body": "<path fill=\"currentColor\" d=\"m5 4l2.5-4L10 4l.5 11h-6z\"/>"
+			},
+			"parking-space": {
+				"body": "<path fill=\"currentColor\" d=\"M11 15V2H4v13H2V0h11v15z\"/>"
+			},
+			"power": {
+				"body": "<path fill=\"currentColor\" d=\"M6 0L4 8h3l-2 7l6-9H8l3-6z\"/>"
 			}
 		},
 		"width": 15,
