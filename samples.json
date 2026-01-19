@@ -3977,7 +3977,7 @@
 				"body": "<path fill=\"currentColor\" d=\"M7.5 2.5A.5.5 0 0 0 7 3c0 4-8 5-3 11h7c5-6-3-7-3-11a.5.5 0 0 0-.5-.5\"/>"
 			},
 			"shelter": {
-				"body": "<path fill=\"currentColor\" d=\"m7.342 2.025l-6 2c-.54.18-.41.976.158.975H2v9h1V5h9v9h1V5h.5c.568 0 .697-.796.158-.975l-6-2a.48.48 0 0 0-.316 0\"/>"
+				"body": "<path fill=\"currentColor\" d=\"M7.5 2a.5.5 0 0 1 .17.03l5.977 1.992A.5.5 0 0 1 13.5 5H13v9h-1V5H3v9H2V5h-.5a.5.5 0 0 1-.147-.978L7.33 2.029A.5.5 0 0 1 7.5 2\"/>"
 			},
 			"circle-11": {
 				"body": "<path fill=\"currentColor\" d=\"M7.5 2a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11\"/>"
@@ -3986,7 +3986,7 @@
 				"body": "<path fill=\"currentColor\" d=\"M6 5h4c.554 0 1 .446 1 1v4c0 .554-.446 1-1 1H6c-.554 0-1-.446-1-1V6c0-.554.446-1 1-1\"/>"
 			},
 			"pyramid": {
-				"body": "<path fill=\"currentColor\" d=\"M7.492 4a.5.5 0 0 0-.346.146l-6 6A.5.5 0 0 0 1.5 11h12a.5.5 0 0 0 .354-.854l-6-6A.5.5 0 0 0 7.492 4\"/>"
+				"body": "<path fill=\"currentColor\" d=\"M14 10.5a.5.5 0 0 1-.5.5h-12a.5.5 0 0 1-.378-.828l5.996-6.995a.5.5 0 0 1 .764 0l5.996 6.996A.5.5 0 0 1 14 10.5\"/>"
 			}
 		}
 	},
@@ -5196,6 +5196,31 @@
 		},
 		"width": 30,
 		"height": 30
+	},
+	{
+		"prefix": "wordpress",
+		"icons": {
+			"home": {
+				"body": "<path fill=\"currentColor\" d=\"M12 4L4 7.9V20h16V7.9zm6.5 14.5H14V13h-4v5.5H5.5V8.8L12 5.7l6.5 3.1z\"/>"
+			},
+			"pencil": {
+				"body": "<path fill=\"currentColor\" d=\"m19 7l-3-3l-8.5 8.5l-1 4l4-1zm-7 11.5H5V20h7z\"/>"
+			},
+			"corner-top-right": {
+				"body": "<path fill=\"currentColor\" d=\"M5.75 6A.25.25 0 0 1 6 5.75h3v-1.5H6A1.75 1.75 0 0 0 4.25 6v3h1.5zM18 18.25h-3v1.5h3A1.75 1.75 0 0 0 19.75 18v-3h-1.5v3a.25.25 0 0 1-.25.25M18.25 9V6a.25.25 0 0 0-.25-.25h-3v-1.5h3c.966 0 1.75.784 1.75 1.75v3zm-12.5 9v-3h-1.5v3c0 .966.784 1.75 1.75 1.75h3v-1.5H6a.25.25 0 0 1-.25-.25\" opacity=\".25\"/><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M18.25 9V6a.25.25 0 0 0-.25-.25h-3v-1.5h3c.966 0 1.75.784 1.75 1.75v3z\"/>"
+			},
+			"funnel": {
+				"body": "<path fill=\"currentColor\" d=\"M10 17.5h4V16h-4zM6 6v1.5h12V6zm2 6.5h8V11H8z\"/>"
+			},
+			"sides-all": {
+				"body": "<path fill=\"currentColor\" d=\"M7.5 6h9V4.5h-9zm0 13.5h9V18h-9zm-3-3H6v-9H4.5zm13.5-9v9h1.5v-9z\"/>"
+			},
+			"breadcrumbs": {
+				"body": "<path fill=\"currentColor\" d=\"M4 13.5h3v-3H4zm6-3.5l2 2l-2 2l1 1l3-3l-3-3zm7 .5v3h3v-3z\"/>"
+			}
+		},
+		"width": 24,
+		"height": 24
 	},
 	{
 		"prefix": "wpf",
