@@ -636,7 +636,7 @@
 		"prefix": "codicon",
 		"icons": {
 			"account": {
-				"body": "<path fill=\"currentColor\" d=\"M8 2a6 6 0 1 0 0 12A6 6 0 0 0 8 2M1 8a7 7 0 1 1 14 0A7 7 0 0 1 1 8m7 4.25c1.933 0 3.5-1.214 3.5-3.036C11.5 8.543 10.956 8 10.286 8H5.715c-.671 0-1.214.544-1.214 1.214c0 1.821 1.567 3.036 3.5 3.036zm0-5a1.874 1.874 0 1 0 .001-3.749A1.874 1.874 0 0 0 8 7.25\"/>"
+				"body": "<path fill=\"currentColor\" d=\"M6 5a2 2 0 1 1 4 0a2 2 0 0 1-4 0m-.5 3h5A1.5 1.5 0 0 1 12 9.5c0 1.116-.459 2.01-1.212 2.615C10.047 12.71 9.053 13 8 13s-2.047-.29-2.788-.885C4.46 11.51 4 10.616 4 9.5A1.5 1.5 0 0 1 5.5 8M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0M1 8a7 7 0 1 1 14 0A7 7 0 0 1 1 8\"/>"
 			},
 			"bell-dot": {
 				"body": "<path fill=\"currentColor\" d=\"M13 9.901V7.873q-.481.125-1 .126v1.998q0 .097.036.186L12.762 12H3.238l.726-1.817A.5.5 0 0 0 4 9.997V5.999a4.004 4.004 0 0 1 4.518-3.967c.185-.327.416-.626.682-.887A5.006 5.006 0 0 0 3 5.999V9.9l-.964 2.413a.5.5 0 0 0 .464.686H6c0 1.108.892 2 2 2s2-.892 2-2h3.5a.5.5 0 0 0 .464-.686zM8 14c-.556 0-1-.444-1-1h2c0 .556-.444 1-1 1m7-10a3 3 0 1 1-6 0a3 3 0 0 1 6 0\"/>"
@@ -3854,11 +3854,11 @@
 			"heart": {
 				"body": "<path fill=\"currentColor\" d=\"M13 22h-2v-2h2zm-2-2H9v-2h2zm4 0h-2v-2h2zm-6-2H7v-2h2zm8 0h-2v-2h2zM7 16H5v-2h2zm12 0h-2v-2h2zM5 14H3v-2h2zm16 0h-2v-2h2zM3 12H1V6h2zm20 0h-2V6h2zM13 8h-2V6h2zM5 6H3V4h2zm6 0H9V4h2zm4 0h-2V4h2zm6 0h-2V4h2zM9 4H5V2h4zm10 0h-4V2h4z\"/>"
 			},
-			"hash": {
-				"body": "<path fill=\"currentColor\" d=\"M9 3h2v5H9zm6 0h2v5h-2zm-7 7h2v4H8zm6 0h2v4h-2zm-7 6h2v5H7zm6 0h2v5h-2zM3 8h18v2H3zm0 6h18v2H3z\"/>"
-			},
 			"tab": {
 				"body": "<path fill=\"currentColor\" d=\"M2 6h2v12H2zm2 12h16v2H4zM20 6h2v12h-2zM4 4h16v2H4zm8 2h8v4h-8z\"/>"
+			},
+			"hash": {
+				"body": "<path fill=\"currentColor\" d=\"M9 3h2v5H9zm6 0h2v5h-2zm-7 7h2v4H8zm6 0h2v4h-2zm-7 6h2v5H7zm6 0h2v5h-2zM3 8h18v2H3zm0 6h18v2H3z\"/>"
 			},
 			"folder": {
 				"body": "<path fill=\"currentColor\" d=\"M4 4h6v2H4zm0 14h16v2H4zM20 8h2v10h-2zM2 6h2v12H2zm8 0h10v2H10z\"/>"
