@@ -105,6 +105,29 @@
 		"height": 48
 	},
 	{
+		"prefix": "at-icons",
+		"icons": {
+			"shield": {
+				"body": "<path fill=\"currentColor\" d=\"M8 15c-2-.333-6-3.2-6-12l6-2zm7-12c0 8.8-4 11.667-6 12V1z\"/>"
+			},
+			"checkerboard": {
+				"body": "<path fill=\"currentColor\" d=\"M15 15H1V1h14zM8 8H2v6h6zh6V2H8z\"/>"
+			},
+			"ladder": {
+				"body": "<path fill=\"currentColor\" d=\"M4 3h8V1h2v14h-2v-2H4v2H2V1h2zm0 8h8V9H4zm0-6v2h8V5z\"/>"
+			},
+			"sprout": {
+				"body": "<path fill=\"currentColor\" d=\"M3 2a5 5 0 0 1 4.9 4H8a4 4 0 0 1 4-4h3a5 5 0 0 1-5 5H9v7H7V7H5a4 4 0 0 1-4-4V2z\"/>"
+			},
+			"no-entry": {
+				"body": "<path fill=\"currentColor\" d=\"M8 1a7 7 0 1 1 0 14A7 7 0 0 1 8 1M3 7v2h10V7z\"/>"
+			},
+			"moon": {
+				"body": "<path fill=\"currentColor\" d=\"M9.571 1.18a7 7 0 1 1-8.39 8.391a6 6 0 1 0 8.39-8.39\"/>"
+			}
+		}
+	},
+	{
 		"prefix": "basil",
 		"icons": {
 			"comment-solid": {
