@@ -2437,7 +2437,7 @@
         "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6.5 9.5a5.5 5.5 0 1 1 11 0V16c0 1.414 0 2.121-.44 2.56c-.439.44-1.146.44-2.56.44h-5c-1.414 0-2.121 0-2.56-.44c-.44-.439-.44-1.146-.44-2.56z\"/><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M20 11v6m-5 2v3m-6-3v3M4 11v6m6-13L8.5 2M14 4l1.5-2m-9 8h11\"/></g>"
       },
       "search-02": {
-        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"m15 15l1.5 1.5m.433 2.525a1.48 1.48 0 1 1 2.092-2.092l2.042 2.042a1.48 1.48 0 1 1-2.092 2.092zM16.5 9.5a7 7 0 1 0-14 0a7 7 0 0 0 14 0\"/>"
+        "body": "<g fill=\"none\"><path stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M17 10a7 7 0 1 1-14 0a7 7 0 0 1 14 0Z\"/><path fill=\"currentColor\" d=\"M20.47 21.53a.75.75 0 1 0 1.06-1.06L21 21zM15 15l-.53.53l6 6L21 21l.53-.53l-6-6z\"/></g>"
       },
       "tick-02": {
         "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"m5 14l3.5 3.5L19 6.5\"/>"
