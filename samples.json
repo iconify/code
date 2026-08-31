@@ -2831,10 +2831,10 @@
     "prefix": "keyline-icons",
     "icons": {
       "arrow-up-narrow-wide-duotone": {
-        "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-opacity=\".4\" d=\"M13 6L17 6M13 10L19 10M13 14L21 14M13 18L23 18\"/><path d=\"M6 19L6 6M1.2929 10.7071L6 6L10.7071 10.7071\"/></g>"
+        "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-opacity=\".4\" d=\"M14 6H16M14 10H18M14 14H20M14 18H22\"/><path d=\"M6 18V6M2 10L5.6464 6.3536C5.8417 6.1583 6.1583 6.1583 6.3536 6.3536L10 10\"/></g>"
       },
       "credit-card-fill": {
-        "body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M3 3L21 3C21.5523 3 22 3.4477 22 4L22 20C22 20.5523 21.5523 21 21 21L3 21C2.4477 21 2 20.5523 2 20L2 4C2 3.4477 2.4477 3 3 3ZM4 8L20 8L20 10L4 10L4 8Z\" clip-rule=\"evenodd\"/>"
+        "body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M2 7C2 4.7909 3.7909 3 6 3H18C20.2091 3 22 4.7909 22 7V17C22 19.2091 20.2091 21 18 21H6C3.7909 21 2 19.2091 2 17V7ZM4 8H20V10H4V8Z\" clip-rule=\"evenodd\"/>"
       },
       "upload": {
         "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12 14V3M8 7L12 3L16 7M4 18V19C4 20.1046 4.89543 21 6 21H18C19.1046 21 20 20.1046 20 19V18\"/>"
