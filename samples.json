@@ -2859,7 +2859,7 @@
         "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-opacity=\".4\" d=\"M14 6H16M14 10H18M14 14H20M14 18H22\"/><path d=\"M6 18V6M2 10L5.6464 6.3536C5.8417 6.1583 6.1583 6.1583 6.3536 6.3536L10 10\"/></g>"
       },
       "credit-card-fill": {
-        "body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M2 7C2 4.7909 3.7909 3 6 3H18C20.2091 3 22 4.7909 22 7V17C22 19.2091 20.2091 21 18 21H6C3.7909 21 2 19.2091 2 17V7ZM4 8H20V10H4V8Z\" clip-rule=\"evenodd\"/>"
+        "body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M1 7C1 4.7909 2.7909 3 5 3H19C21.2091 3 23 4.7909 23 7V17C23 19.2091 21.2091 21 19 21H5C2.7909 21 1 19.2091 1 17V7ZM3 8H21V10H3V8Z\" clip-rule=\"evenodd\"/>"
       },
       "upload": {
         "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12 14V3M8 7L12 3L16 7M4 18V19C4 20.1046 4.89543 21 6 21H18C19.1046 21 20 20.1046 20 19V18\"/>"
