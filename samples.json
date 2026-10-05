@@ -3295,6 +3295,31 @@
     "height": 24
   },
   {
+    "prefix": "matita",
+    "icons": {
+      "crop": {
+        "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.808\"><path d=\"M6.09 2.16q.25 8-.13 15.99q7.86.24 15.71-.15\"/><path d=\"M2.2 5.85q7.92.5 15.86.29q0 7.77-.17 15.54\"/></g>"
+      },
+      "activity": {
+        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.52\" d=\"M1.88 12.21q2.32.02 4.62-.36q1.21-3.49 2.99-6.73q2.26 7.09 5.12 13.96q1.44-3.57 2.8-7.17q2.22.15 4.44.31\"/>"
+      },
+      "navigation": {
+        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.76\" d=\"M3.45 11.15Q12.1 7.52 20.49 3.3q-4.06 8.36-7.29 17.07q-.9-3.67-2.08-7.25q-3.79-1.16-7.67-1.97q.64-.32 1.3-.6\"/>"
+      },
+      "play": {
+        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.472\" d=\"M6.41 4.69q5.88 4.1 12.29 7.32q-6.07 3.56-12.01 7.32q-.15-7.32-.28-14.64q.53.36 1.1.66\"/>"
+      },
+      "check": {
+        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.616\" d=\"M4.21 11.97q2.83 2.62 5.16 5.67q5.54-5.39 10.43-11.37\"/>"
+      },
+      "x": {
+        "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.696\"><path d=\"M5.63 5.62q5.9 6.6 12.43 12.57\"/><path d=\"M18.05 5.63q-6.71 5.97-12.46 12.9\"/></g>"
+      }
+    },
+    "width": 24,
+    "height": 24
+  },
+  {
     "prefix": "mdi",
     "icons": {
       "account-check": {
