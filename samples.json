@@ -5655,10 +5655,10 @@
         "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 22v-5.903m0 0c5.818-5.056 10.182 5.055 16 0V3.459c-5.818 5.056-10.182-5.055-16 0z\"/>"
       },
       "app-window-mac": {
-        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M2 9a6 6 0 0 1 6-6h8a6 6 0 0 1 6 6v6a6 6 0 0 1-6 6H8a6 6 0 0 1-6-6zm4-2h1m3 0h1m3 0h1\"/>"
+        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8 21h8a6 6 0 0 0 6-6V9a6 6 0 0 0-6-6H8a6 6 0 0 0-6 6v6a6 6 0 0 0 6 6M6 7h1m3 0h1m3 0h1\"/>"
       },
       "frame": {
-        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M22 6H2m20 12H2M6 2v20M18 2v20\"/>"
+        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M22 6h-4m0 0H6m12 0V2m0 4v12M6 6H2m4 0V2m0 4v12m16 0h-4m0 0H6m12 0v4M6 18H2m4 0v4\"/>"
       },
       "power": {
         "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M18.615 4.5a10 10 0 1 1-13.23 0M12 2v10\"/>"
