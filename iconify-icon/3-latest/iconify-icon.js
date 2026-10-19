@@ -7,7 +7,7 @@
 * Licensed under MIT.
 *
 * @license MIT
-* @version 3.0.3
+* @version 3.0.4
 */
 (function () {
 	'use strict';
@@ -623,27 +623,7 @@
 	* Local storage
 	*/
 	const configStorage = Object.create(null);
-	/**
-	* Redundancy for API servers.
-	*
-	* API should have very high uptime because of implemented redundancy at server level, but
-	* sometimes bad things happen. On internet 100% uptime is not possible.
-	*
-	* There could be routing problems. Server might go down for whatever reason, but it takes
-	* few minutes to detect that downtime, so during those few minutes API might not be accessible.
-	*
-	* This script has some redundancy to mitigate possible network issues.
-	*
-	* If one host cannot be reached in 'rotate' (750 by default) ms, script will try to retrieve
-	* data from different host. Hosts have different configurations, pointing to different
-	* API servers hosted at different providers.
-	*/
-	const fallBackAPISources = ["https://api.simplesvg.com", "https://api.unisvg.com"];
-	const fallBackAPI = [];
-	while (fallBackAPISources.length > 0) if (fallBackAPISources.length === 1) fallBackAPI.push(fallBackAPISources.shift());
-	else if (Math.random() > .5) fallBackAPI.push(fallBackAPISources.shift());
-	else fallBackAPI.push(fallBackAPISources.pop());
-	configStorage[""] = createAPIConfig({ resources: ["https://api.iconify.design"].concat(fallBackAPI) });
+	configStorage[""] = createAPIConfig({ resources: ["https://api.iconify.design"] });
 	/**
 	* Add custom config for provider
 	*/
