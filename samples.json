@@ -5649,22 +5649,22 @@
     "prefix": "vadivam",
     "icons": {
       "axis-3d": {
-        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M22 22H8a6 6 0 0 1-6-6V2m5 15l2-2m3-3l2-2m3-3l2-2\"/>"
+        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M22 22H11.6c-3.36 0-5.04 0-6.324-.654a6 6 0 0 1-2.622-2.622C2 17.44 2 15.76 2 12.4V2m5 15l2-2m3-3l2-2m3-3l2-2\"/>"
       },
       "flag": {
         "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 22v-5.903m0 0c5.818-5.056 10.182 5.055 16 0V3.459c-5.818 5.056-10.182-5.055-16 0z\"/>"
       },
       "app-window-mac": {
-        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8 21h8a6 6 0 0 0 6-6V9a6 6 0 0 0-6-6H8a6 6 0 0 0-6 6v6a6 6 0 0 0 6 6M6 7h1m3 0h1m3 0h1\"/>"
+        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M10.8 21h2.4c3.08 0 4.62 0 5.797-.6a5.5 5.5 0 0 0 2.404-2.403C22 16.82 22 15.28 22 12.2v-.4c0-3.08 0-4.62-.6-5.797A5.5 5.5 0 0 0 18.998 3.6C17.82 3 16.28 3 13.2 3h-2.4c-3.08 0-4.62 0-5.797.6A5.5 5.5 0 0 0 2.6 6.002C2 7.18 2 8.72 2 11.8v.4c0 3.08 0 4.62.6 5.797A5.5 5.5 0 0 0 5.002 20.4c1.178.6 2.718.6 5.798.6M6 7h1m3 0h1m3 0h1\"/>"
       },
       "frame": {
-        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M22 6h-4m0 0H6m12 0V2m0 4v12M6 6H2m4 0V2m0 4v12m16 0h-4m0 0H6m12 0v4M6 18H2m4 0v4\"/>"
+        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M22 6H2m16 16V2M6 22V2m16 16H2\"/>"
       },
       "power": {
         "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M18.615 4.5a10 10 0 1 1-13.23 0M12 2v10\"/>"
       },
       "library": {
-        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3.5 2v20m4-18v18m4-19v19m3-17l6 17\"/>"
+        "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 3v18M8 6v15m4-17v17m3.5-16L20 21\"/>"
       }
     },
     "width": 24,
