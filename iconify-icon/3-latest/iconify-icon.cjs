@@ -7,7 +7,7 @@
 * Licensed under MIT.
 *
 * @license MIT
-* @version 3.0.4
+* @version 3.0.5
 */
 'use strict';
 
@@ -611,8 +611,8 @@ function createAPIConfig(source) {
 		resources,
 		path: source.path || "/",
 		maxURL: source.maxURL || 500,
-		rotate: source.rotate || 750,
-		timeout: source.timeout || 5e3,
+		rotate: source.rotate || 2e3,
+		timeout: source.timeout || 1e4,
 		random: source.random === true,
 		index: source.index || 0,
 		dataAfterTimeout: source.dataAfterTimeout !== false
@@ -622,7 +622,7 @@ function createAPIConfig(source) {
 * Local storage
 */
 const configStorage = Object.create(null);
-configStorage[""] = createAPIConfig({ resources: ["https://api.iconify.design"] });
+configStorage[""] = createAPIConfig({ resources: ["https://api.iconify.design", "https://api2.iconify.design"] });
 /**
 * Add custom config for provider
 */
